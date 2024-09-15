@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: https://th.bing.com/th/id/OIP.9LSjhdD3TtUr2I9662gtVgHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -21,9 +21,7 @@ top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This week, our group had the first group meeting with the teacher. We had a certain understanding of each other and discussed the topic of graduation project.
 
 ## section 1
 
