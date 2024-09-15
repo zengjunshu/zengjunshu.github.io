@@ -5,7 +5,7 @@ subtitle: Our team is completing a project.
 author: Jinshen Zhao
 categories: meeting
 banner:
-  video: https://tv.sohu.com/v/dXMvMzM1OTQxOTkwLzExMTUzNzU3NC5zaHRtbA==.html
+  video: https://th.bing.com/th?&id=OVP.QfT1_eibzaFTaaI0eapBLQIIEk&w=296&h=165&c=7&pid=2.1&rs=1
   loop: true
   volume: 0.8
   start_at: 8.5
