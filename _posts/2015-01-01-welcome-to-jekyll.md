@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://th.bing.com/th/id/OIP.9LSjhdD3TtUr2I9662gtVgHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
+  image: https://res.cloudinary.com/dxpnytczl/image/upload/v1726310174/c05z06ofaocsbvzzbaq3.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -21,53 +21,15 @@ top: 1
 sidebar: []
 ---
 
-This week, our group had the first group meeting with the teacher. We had a certain understanding of each other and discussed the topic of graduation project.
+This week, our group had the first group meeting with the teacher. We had a certain understanding of each other and discussed the topic of graduation project. Here are the three options we discussed.
+## section 1: project 1:"Follow-me suitcase".
 
-## section 1
+It allows user not to pay attraction to the suitcase.  Technical needs encompass: Sensor Technology: Cameras or LIDAR for tracking and navigation.  Microcontroller: For processing sensor data and managing navigation.  Communication Systems: Reliable protocols (e.g., Bluetooth) for interaction.  Power Management: Efficient battery usage.
 
-Jekyll also offers powerful support for code snippets:
+## section 2: project 2: Bicycle-Wheelchair Hybrid.
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The Bicycle-Wheelchair Hybrid aims to enhance mobility for individuals with limited physical capabilities by merging the benefits of bicycles and wheelchairs, promoting greater independence and freedom of movement.   Solution Needs:Technical requirements encompass a robust frame that incorporates features from both bicycles and wheelchairs, a wheel and suspension system that provides stability and comfort, user-friendly steering and braking mechanisms, and potential electric assistance for easier navigation.
 
-## section 2
+## section 3: project 3:Oceanic Floating Detection.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+The "Oceanic Floating Detection" project aims to address the critical need for monitoring and detecting floating debris, marine life, and environmental changes in oceanic ecosystems.   Effective detection is essential for environmental protection, navigation safety, and disaster response.   Technical requirements include: Sensor Technology: Utilizing advanced sensors (e.g., radar, sonar, and optical) for accurate detection.
