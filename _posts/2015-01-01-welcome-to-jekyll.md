@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: Welcome to ZengJunshu!
+subtitle: Our team is completing a project.
+author: Jinshen Zhao
+categories: meeting
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: https://www.bing.com/images/search?view=detailV2&ccid=9LSjhdD3&id=F53692F0321E3829793C0754D2AEED7C04C505FA&thid=OIP.9LSjhdD3TtUr2I9662gtVgHaHa&mediaurl=https%3a%2f%2fimg.tukuppt.com%2fpng_preview%2f00%2f31%2f45%2fF7QbnUSF63.jpg!%2ffw%2f780&exph=780&expw=780&q=xuehsutaolun&simid=608027259584710916&FORM=IRPRST&ck=26597EE6C5982D68BCF972A5F5CDDF1F&selectedIndex=4&itb=0
   loop: true
   volume: 0.8
   start_at: 8.5
