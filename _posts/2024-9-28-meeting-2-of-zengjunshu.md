@@ -24,9 +24,9 @@ sidebar: []
 At this stage, through communication and discussion with teachers, the team preliminarily determined the project direction selection and carried out optimization to a certain extent. The following is a preliminary report of the zengjunshu team's findings:
 
 ---
-assets/image/ppt2.jpg
-assets/image/ppt3.jpg
-assets/image/ppt4.jpg
-assets/image/ppt5.jpg
-assets/image/ppt6.jpg
+image: assets/image/ppt2.jpg
+image: assets/image/ppt3.jpg
+image: assets/image/ppt4.jpg
+image: assets/image/ppt5.jpg
+image: assets/image/ppt6.jpg
 ---
