@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: assets/image/ppt1.jpg
+  image: assets/image/ppt2.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -23,8 +23,10 @@ sidebar: []
 
 At this stage, through communication and discussion with teachers, the team preliminarily determined the project direction selection and carried out optimization to a certain extent. The following is a preliminary report of the zengjunshu team's findings:
 
+---
 assets/image/ppt2.jpg
 assets/image/ppt3.jpg
 assets/image/ppt4.jpg
 assets/image/ppt5.jpg
 assets/image/ppt6.jpg
+---
