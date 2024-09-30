@@ -24,9 +24,20 @@ sidebar: []
 At this stage, through communication and discussion with teachers, the team preliminarily determined the project direction selection and carried out optimization to a certain extent. The following is a preliminary report of the zengjunshu team's findings:
 
 ---
-image: assets/image/ppt2.jpg
-image: assets/image/ppt3.jpg
-image: assets/image/ppt4.jpg
-image: assets/image/ppt5.jpg
-image: assets/image/ppt6.jpg
+banner:
+  video: assets/image/ppt1.jpg
+  loop: true
+  volume: 3
+  start_at: 18.5
+  image: assets/image/ppt2.jpg
+  image: assets/image/ppt3.jpg
+  image: assets/image/ppt4.jpg
+  image: assets/image/ppt5.jpg
+  image: assets/image/ppt6.jpg
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 ---
