@@ -5,11 +5,11 @@ subtitle: Our team is completing a project.
 author: Jinshen Zhao
 categories: meeting2
 banner:
-  video: assets/images/幻灯片1.jpg
+  video: assets/image/幻灯片1.jpg
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: assets/images/幻灯片1.jpg
+  image: assets/image/幻灯片1.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -23,8 +23,8 @@ sidebar: []
 
 At this stage, through communication and discussion with teachers, the team preliminarily determined the project direction selection and carried out optimization to a certain extent. The following is a preliminary report of the zengjunshu team's findings:
 
-assets/images/幻灯片2.jpg
-assets/images/幻灯片3.jpg
-assets/images/幻灯片4.jpg
-assets/images/幻灯片5.jpg
-assets/images/幻灯片6.jpg
+assets/image/幻灯片2.jpg
+assets/image/幻灯片3.jpg
+assets/image/幻灯片4.jpg
+assets/image/幻灯片5.jpg
+assets/image/幻灯片6.jpg
